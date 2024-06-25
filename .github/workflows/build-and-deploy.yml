@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: promptflow-cli
+  IMAGE_NAME: JoeyRoeters/promptflow-cli
 
 jobs:
   build:
