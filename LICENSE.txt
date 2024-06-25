@@ -1,0 +1,32 @@
+Custom DockerFile License Agreement
+
+1. Definitions
+   "DockerFile" refers to the DockerFile, DockerFile, associated scripts, data, and documentation, both printed and electronic, covered by this agreement.
+   "Licensee" refers to the individual or entity that has acquired the DockerFile legally.
+
+2. Grant of License
+   This License Agreement (the "Agreement") permits Licensee to use one copy of the DockerFile, which may be installed on any number of machines. Each installed copy of the DockerFile may be used on one local machine location by one or more individuals. This Agreement does not permit the installation or use on a network where the DockerFile could be used by multiple machines or multiple users.
+
+3. Scope of License
+   (a) Licensee may install and use the DockerFile solely for their personal or internal business purposes.
+   (b) Licensee may modify the DockerFile of the DockerFile for their personal or internal business use.
+   (c) Licensee may make copies of the DockerFile in machine-readable form for backup purposes.
+
+4. Restrictions
+   (a) No Redistribution: Licensee shall not distribute, publish, make available to the public, or create derivative works based on the DockerFile for commercial purposes, including but not limited to selling, licensing, or renting the DockerFile or any part thereof.
+   (b) No Sublicensing: Licensee shall not sublicense, resell, rent, lease, or lend the DockerFile.
+   (c) No Public Display: Licensee shall not display the DockerFile publicly where it can be used or accessed by the public or other unauthorized users.
+
+5. Ownership
+   The DockerFile is owned by Joey Roeters and is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+6. Termination
+   This Agreement is effective until terminated. This Agreement will terminate automatically without notice from Joey Roeters if Licensee fails to comply with any provision of this Agreement. Upon termination, Licensee must destroy all copies of the DockerFile.
+
+7. Disclaimer of Warranty
+   THE DockerFile IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE DockerFile OR THE USE OR OTHER DEALINGS IN THE DockerFile.
+
+8. Limitation of Liability
+   IN NO EVENT SHALL Joey Roeters BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE DockerFile, EVEN IF Joey Roeters HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+By installing, copying, or otherwise using the DockerFile, you agree to be bound by the terms of this Agreement.
