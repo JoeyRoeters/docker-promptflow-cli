@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM docker.io/continuumio/miniconda3:latest
+FROM --platform=linux/amd64 docker.io/continuumio/miniconda3:latest
 
 WORKDIR /
 
